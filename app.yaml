@@ -1,4 +1,4 @@
-runtime: nodejs10
+runtime: nodejs
 api_version: 1
 threadsafe: true
 handlers:
